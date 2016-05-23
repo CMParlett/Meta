@@ -1,0 +1,13 @@
+name
+smell
+leap
+echo
+allow
+present
+office
+picture
+switch
+smell
+alert
+single
+knock

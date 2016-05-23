@@ -1,0 +1,12 @@
+view
+physics
+attempt
+small
+craft
+piece
+sell
+test
+object
+face
+shut
+step

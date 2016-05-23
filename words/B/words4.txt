@@ -1,0 +1,12 @@
+chart
+glue
+gain
+stroke
+solid
+spray
+plane
+culture
+joint
+head
+respect
+taste
