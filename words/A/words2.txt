@@ -1,0 +1,12 @@
+stick
+bowl
+mud
+pool
+door
+snake
+green
+bird
+club
+tent
+skate
+oven
